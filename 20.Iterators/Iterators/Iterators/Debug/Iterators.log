@@ -1,0 +1,5 @@
+﻿  Iterators.cpp
+c:\users\saeid\desktop\training\c++\examples\examples\20.iterators\iterators\iterators\iterators.cpp(55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\saeid\desktop\training\c++\examples\examples\20.iterators\iterators\iterators\iterators.cpp(88): note: see reference to class template instantiation 'ReferencedObject<referencedObject>' being compiled
+  Iterators.vcxproj -> C:\Users\Saeid\Desktop\Training\C++\Examples\Examples\20.Iterators\Iterators\Debug\Iterators.exe
+  Iterators.vcxproj -> C:\Users\Saeid\Desktop\Training\C++\Examples\Examples\20.Iterators\Iterators\Debug\Iterators.pdb (Full PDB)

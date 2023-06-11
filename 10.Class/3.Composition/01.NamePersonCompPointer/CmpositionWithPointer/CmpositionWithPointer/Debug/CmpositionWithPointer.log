@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Person.cpp
+c:\users\saeid\desktop\training\c++\examples\examples\10.class\3.composition\01.namepersoncomppointer\cmpositionwithpointer\cmpositionwithpointer\person.cpp(30): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Name.cpp
+c:\users\saeid\desktop\training\c++\examples\examples\10.class\3.composition\01.namepersoncomppointer\cmpositionwithpointer\cmpositionwithpointer\name.cpp(10): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\saeid\desktop\training\c++\examples\examples\10.class\3.composition\01.namepersoncomppointer\cmpositionwithpointer\cmpositionwithpointer\name.cpp(20): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\saeid\desktop\training\c++\examples\examples\10.class\3.composition\01.namepersoncomppointer\cmpositionwithpointer\cmpositionwithpointer\name.cpp(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  CmpositionWithPointer.cpp
+  Generating Code...
